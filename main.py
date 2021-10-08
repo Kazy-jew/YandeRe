@@ -49,8 +49,7 @@ def downloader(date, original_id, id_list, eigenvalue):
 
 
 class Options:
-    def __init__(self, ldate):
-        self.date = ldate
+
 
     @staticmethod
     def many_dates():
